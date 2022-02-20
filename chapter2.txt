@@ -1,1 +1,1 @@
-I must study dsa, but i am studying node.
+I must study dsa algorithm, but i am studying node js.

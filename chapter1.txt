@@ -1,1 +1,1 @@
-I must study ADS, but i am studying git.
+I must study ADS structure, but i am studying git branch.
